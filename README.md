@@ -46,7 +46,7 @@ Create a seamless online shopping experience with our tailored e-commerce soluti
 #### Step 1: Consultation and Strategy Development
 We start with an in-depth consultation to understand your business goals and challenges. Based on this, we develop a customized strategy tailored to your specific needs.
 
- #### Step 2: Implementation and Monitoring
+#### Step 2: Implementation and Monitoring
 Our experts implement the chosen strategies, continuously monitoring performance and making adjustments to ensure optimal results.
 
 #### Step 3: Reporting and Adjustment
